@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+body{
+
+
+background-image: url('blog6.jpeg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+.mytable{
+
+background-color: greenyellow;
+
+}
+
